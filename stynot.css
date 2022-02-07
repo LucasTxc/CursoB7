@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(240, 240, 245, 0.849);
+    text-align: center;
+}
+.op{
+  
+    border: 100px;
+    background-color: brown;    
+    float: left;
+ 
+   
+    
+}
+.tipo{
+    
+    text-align:ariel;
+    
+}
+textarea{
+    width:500px;
+    height:250px;
+    resize:none;
+   
+}
+fieldset{
+    display: inline-block;
+    border:none;
+    
+    
+}
